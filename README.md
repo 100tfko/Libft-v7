@@ -3,12 +3,12 @@
   This is your first project as a 42-year-old student. You will have to program some functions from the C standard library, as well as other functions that will be useful throughout your course.
 </p>
 
-## Keywords:
+## Key concepts:
 <ul>
   <li>Unix logic</li>
 </ul>
 
-# Skills:
+## Skills:
 <ul>
   <li>Imperative programming</li>
   <li>algorihms & AI</li>
