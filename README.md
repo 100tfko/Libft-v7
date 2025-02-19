@@ -36,7 +36,7 @@
 ## Soft skills:
 <ul>
   This first project as a special focus on attention to detail and rigour, since the set of instructions and formal aspects are specially strict.
-There is also some aspect of project management, time budgeting, organization etc... but those will be better put to test in the future.
+There is also some aspects of project management, time budgeting, organization etc... but those will be better put to test in the future.
 </ul>
 
 <h3>Project Tree</h3>
