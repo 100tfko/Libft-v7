@@ -12,10 +12,10 @@
 ## Programming concepts:
 <ul>
 <li>Memory Manipulation</li>
-</li>String Handling</li>
-</li>Type Casting</li>
-</li>Character Operations</li>
-</li>Linked Lists</li>
+<li>String Handling</li>
+<li>Type Casting</li>
+<li>Character Operations</li>
+<li>Linked Lists</li>
   </ul>
 
 ## Technologies:
