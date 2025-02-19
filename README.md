@@ -1,7 +1,4 @@
-
-<p>
-  <img src="https://despistaos.es/foro/uploads/monthly_2020_11/original.gif.09515af5aee32ee4129003f4ba61abf8.gif"/>
-</p>
+# libft
 
 # Description:
 <p>
