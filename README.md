@@ -3,9 +3,27 @@
   This is your first project as a 42-year-old student. You will have to program some functions from the C standard library, as well as other functions that will be useful throughout your course.
 </p>
 
+
 ## Key concepts:
 <ul>
-  <li>Unix logic</li>
+  In this first project, there is a need to familiarize with the very basic needs of technical work, not only programming skills but also how to work in a Unix environment, git and version control, testing, etc....
+</ul>
+
+## Programming concepts:
+<ul>
+<li>Memory Manipulation</li>
+</li>String Handling</li>
+</li>Type Casting</li>
+</li>Character Operations</li>
+</li>Linked Lists</li>
+  </ul>
+
+## Technologies:
+<ul>
+  <li>C</li>
+  <li>GIT</li>
+  <li>Makefile</li>
+  <li>Standard Lib C</li>
 </ul>
 
 ## Skills:
@@ -15,6 +33,11 @@
   <li>Rigor</li>
 </ul>
 
+## Soft skills:
+<ul>
+  This first project as a special focus on attention to detail and rigour, since the set of instructions and formal aspects are specially strict.
+There is also some aspect of project management, time budgeting, organization etc... but those will be better put to test in the future.
+</ul>
 
 <h3>Project Tree</h3>
 
